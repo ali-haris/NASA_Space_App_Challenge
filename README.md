@@ -50,6 +50,6 @@ The goal of this project is to:
 ## 🧩 Trained Models
 
 📸 *Model Files Overview:*
-![Trained Models Directory](img\trained-models.png)
+![Trained Models Directory](img/trained-models.png)
 
 ---
